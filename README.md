@@ -1,4 +1,4 @@
-**Spotify Listening Analysis — Data Science Project**
+**Spotify Listening Analysis Data Science Project**
 
 This project explores a user's listening behavior on Spotify through data science techniques. By using the Spotify Web API, it retrieves personal listening data and analyzes it through statistics, visualizations, and machine learning models. The result is a detailed view of your musical habits, preferences, and routines.
 
